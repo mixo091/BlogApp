@@ -2,7 +2,10 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>Footer</div>
+    <footer>
+      <span className='logo'>Mindplore</span>
+      <span>Made with love</span>
+    </footer>
   )
 }
 
